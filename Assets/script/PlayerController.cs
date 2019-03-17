@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    public float Speed = 5;
+    public float Speed = 6;
     public float JumpForce = 7;
     Rigidbody2D Rig;
     private bool CompareFloor;
